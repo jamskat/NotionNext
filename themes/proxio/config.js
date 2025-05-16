@@ -7,7 +7,7 @@ const CONFIG = {
 
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
-    PROXIO_HERO_TITLE_1: '垚小尧制造厂', // 英雄区文字
+    PROXIO_HERO_TITLE_1: '垚 小 尧 制 造 厂', // 英雄区文字
     PROXIO_HERO_TITLE_2: 'Making Your Own Gear', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: 'MMOG', // 英雄区按钮
